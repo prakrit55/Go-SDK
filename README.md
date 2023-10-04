@@ -4,7 +4,7 @@ run
 -   to install go-sdk
 `go get github.com/aws/aws-sdk-go/aws` 
 
-- save the file once
+- save the file once:
  `go mod tidy`,
  `go build` to see if any dependencies to download
 
